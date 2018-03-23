@@ -48,6 +48,14 @@ p, li, h5 {
   background-attachment: fixed;
 }
 
+.jumbotron.python{
+  background-image: url("Images/blurcomp.jpg");  
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
 .jumbotron.app{
   background-image: url("Images/app2.jpg");  
   background-repeat: no-repeat;
@@ -150,7 +158,7 @@ iframe {
   -ms-transform: translate(-50%, -50%);
 }
 
-li {
+.navcustom {
   padding-left: 1em;
   padding-right: 1em;
   border-width: thin;
